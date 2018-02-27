@@ -1,3 +1,5 @@
+//chapter20 exercise1 - Search tool
+
 console.log("[SEARCH TOOL INITIATED]");
 //import of File System methods
 const {statSync, readdirSync, readFileSync} = require("fs");
